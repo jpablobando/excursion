@@ -4,7 +4,7 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-/* HEADINGS*/
+/* HEADINGS */
 .header--main {
   font-weight: normal;
   font-size: 50px;
@@ -18,7 +18,7 @@ body {
 
 .header--subheader {
   font-size: 21px;
-  color: gray
+  color: gray;
 }
 
 /* LINKS */
@@ -27,4 +27,9 @@ body {
   color: aquamarine;
 }
 
-.
+/* FOOTER  */
+.footer--copyright {
+  font-size: 21px;
+  color: gray;
+  text-align: right;
+}
